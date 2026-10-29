@@ -4621,6 +4621,25 @@
     }
   },
   {
+    "name": "Fin Codes API",
+    "url": "https://fincodesapi.com/mcp-server",
+    "description": "Validate IBANs and bank codes, verify payee names, and screen names against sanctions lists through an authenticated hosted MCP server.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "PHP",
+    "provider": "Fin Codes API",
+    "tags": [
+      "banking",
+      "iban",
+      "payee-verification",
+      "sanctions",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.fincodesapi.com/mcp"
+    }
+  },
+  {
     "name": "Hail",
     "url": "https://hail.so/mcp",
     "description": "Give your AI assistant a phone number and an email inbox to handle calls, texts, and email.",
